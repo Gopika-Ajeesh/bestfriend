@@ -1,0 +1,105 @@
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="top"
+        android:background="#ffffff"
+        android:layout_margin="5dp">
+
+        <TextView
+            android:layout_width="261dp"
+            android:layout_height="59dp"
+            android:layout_margin="50dp"
+            android:textSize="25dp"
+            android:text="Explore new"
+            android:textColor="#C12C21" />
+
+        <ImageView
+            android:layout_width="85dp"
+            android:layout_height="65dp"
+            android:layout_margin="5dp"
+            android:src="@mipmap/p360126611337_m8kct57hrp0ufx4g64yxg" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sreya"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:text="Simply me and my thoughts"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Follow"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Talktime"/>
+
+        <ImageView
+
+            android:layout_width="93dp"
+            android:layout_height="85dp"
+            android:src="@mipmap/pexelsphoto670720"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_margin="10dp"
+            android:text="Midhun" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:text="Travelling"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Follow"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Talktime"/>
+
+        <ImageView
+
+            android:layout_width="93dp"
+            android:layout_height="85dp"
+            android:src="@mipmap/s360__243765470_a0h5zuonbdi8ajuvhivx"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_margin="10dp"
+            android:text="Catherine" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:text="Public speaker"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Follow"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Talktime"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Show more"/>
+
+    </LinearLayout>
+    </ScrollView>
